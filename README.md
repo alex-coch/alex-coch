@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-coch&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-coch&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alex-coch&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alex-coch&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alex-coch&theme=solarized_dark)
+
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alex-coch" alt="alex-coch" /></a> </p>
 
