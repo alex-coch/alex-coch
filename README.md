@@ -1,10 +1,15 @@
 <!-- <h1 align="center">Hi, I'm Alex</h1>
 <h3 align="center">A passionate developer</h3>
 -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
 ### <a href=https://github.com/alex-coch/MIPT_DL_Advanced_course>Deep learning advanced course</a>
 Phystech-school of applied mathematics and computer science of the Moscow Institute of Physics and Technology (MIPT).
+
+### <aa href=https://github.com/alex-coch/GeekBrains-AI-faculty>GeekBrains artificial intelligence faculty</a>
+Machine learning from professional teachers.
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-coch&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-coch&theme=solarized_dark)
