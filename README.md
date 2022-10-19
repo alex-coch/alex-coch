@@ -2,10 +2,13 @@
 <h3 align="center">A passionate developer</h3>
 -->
 
+### <a href=https://github.com/alex-coch/alex-coch.github.io> Data Science portfolio</a>
+A collection of selected data science projects to demonstrate skill sets and knowledge.
+
 ### <a href=https://github.com/alex-coch/MIPT_DL_Advanced_course>Deep learning advanced course</a>
 Phystech-school of applied mathematics and computer science of the Moscow Institute of Physics and Technology (MIPT).
 
-### <aa href=https://github.com/alex-coch/GeekBrains-AI-faculty>GeekBrains artificial intelligence faculty</a>
+### <a href=https://github.com/alex-coch/GeekBrains-AI-faculty>GeekBrains artificial intelligence faculty</a>
 Machine learning from professional teachers.
 
 
