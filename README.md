@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer</h3>
 -->
 
-### <a href=https://github.com/alex-coch/alex-coch.github.io> Data Science portfolio</a>
+### <a href=https://alex-coch.github.io> Data Science portfolio</a>
 A collection of selected data science projects to demonstrate skill sets and knowledge.
 
 ### <a href=https://github.com/alex-coch/MIPT_DL_Advanced_course>Deep learning advanced course</a>
@@ -11,6 +11,8 @@ Phystech-school of applied mathematics and computer science of the Moscow Instit
 ### <a href=https://github.com/alex-coch/GeekBrains-AI-faculty>GeekBrains artificial intelligence faculty</a>
 Machine learning from professional teachers.
 
+### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
+LeetCode solutions in Python and C/C++.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
