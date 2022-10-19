@@ -3,8 +3,8 @@
 -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
-### <a href=/MIPT_DL_Advanced_course>Deep learning advanced course></a>
-Phystech-school of applied mathematics and computer science of the Moscow Institute of Physics and Technology (MIPT)
+### <a href=/MIPT_DL_Advanced_course>Deep learning advanced course</a>
+Phystech-school of applied mathematics and computer science of the Moscow Institute of Physics and Technology (MIPT).
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-coch&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alex-coch&theme=solarized_dark)
