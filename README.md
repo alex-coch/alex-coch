@@ -11,6 +11,9 @@ Phystech-school of applied mathematics and computer science of the Moscow Instit
 ### <a href=https://github.com/alex-coch/GeekBrains-AI-faculty>GeekBrains artificial intelligence faculty</a>
 Machine learning from professional teachers.
 
+### <a href=https://github.com/alex-coch/SkillFactory-DataScience-Data-Analyst>SkillFactory DataScience</a>
+Full course on Data Science.
+
 ### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
 LeetCode solutions in Python and C/C++.
 
