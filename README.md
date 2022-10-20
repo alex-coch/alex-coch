@@ -17,6 +17,9 @@ Full course on Data Science.
 ### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
 LeetCode solutions in Python and C/C++.
 
+### <a href=https://github.com/alex-coch/SkillFactory-DataScience-Data-Analyst>SkillFactory DataScience</a>
+Full course on Data Science.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alex-coch&theme=solarized_dark)
