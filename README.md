@@ -17,8 +17,8 @@ Full course on Data Science.
 ### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
 LeetCode solutions in Python and C/C++.
 
-### <a href=https://github.com/alex-coch/SkillFactory-DataScience-Data-Analyst>SkillFactory DataScience</a>
-Full course on Data Science.
+### <a href=https://github.com/alex-coch/21-school>21-school</>
+Born_to_code | School 21 is a new type of coding school that prepares you to launch your developer career through collaborative, project-based learning.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
 
