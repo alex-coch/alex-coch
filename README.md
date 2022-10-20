@@ -20,7 +20,7 @@ LeetCode solutions in Python and C/C++.
 ### <a href=https://github.com/alex-coch/21-school>21-school</a>
 Born_to_code | School 21 is a new type of coding school that prepares you to launch your developer career through collaborative, project-based learning.
 
-### <a href=https://github.com/alex-coch/100-Days-of-Code---The-Complete-Python-Pro-Bootcamp-for-2021>100 Days of Code: The Complete Python Pro Bootcamp for </a>
+### <a href=https://github.com/alex-coch/100-Days-of-Code---The-Complete-Python-Pro-Bootcamp-for-2021>100 Days of Code: The Complete Python Pro Bootcamp</a>
 Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
