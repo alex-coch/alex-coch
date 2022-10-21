@@ -26,7 +26,7 @@ Master Python by building 100 projects in 100 days. Learn data science, automati
 ### <a href=https://github.com/alex-coch/Recommender-systems-review>Recommender systems review</a>
 Algorithms in recommender systems.
 
-### <a href=https://github.com/alex-coch/Kaggle</a>
+### <a href=https://github.com/alex-coch/Kaggle>Kaggle</a>
 A collection of Kaggle solutions.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alex-coch&label=Profile%20views&color=0e75b6&style=flat" alt="alex-coch" /> </p>
