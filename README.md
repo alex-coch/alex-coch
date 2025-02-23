@@ -20,9 +20,6 @@ Full course on Data Science.
 ### <a href=https://github.com/alex-coch/21-school>21-school</a>
 Born_to_code | School 21 is a new type of coding school that prepares you to launch your developer career through collaborative, project-based learning.
 
-### <a href=https://github.com/alex-coch/100-Days-of-Code---The-Complete-Python-Pro-Bootcamp-for-2021>100 Days of Code: The Complete Python Pro Bootcamp</a>
-Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps.
-
 ### <a href=https://github.com/alex-coch/Recommender-systems-review>Recommender systems review</a>
 Algorithms in recommender systems.
 
