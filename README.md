@@ -2,6 +2,9 @@
 <h3 align="center">A passionate developer</h3>
 -->
 
+### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
+LeetCode solutions in Python.
+
 ### <a href=https://alex-coch.github.io> Data Science portfolio</a>
 A collection of selected data science projects to demonstrate skill sets and knowledge.
 
@@ -13,9 +16,6 @@ Machine learning from professional teachers.
 
 ### <a href=https://github.com/alex-coch/SkillFactory-DataScience-Data-Analyst>SkillFactory DataScience</a>
 Full course on Data Science.
-
-### <a href=https://github.com/alex-coch/LeetCode>LeetCode</a>
-LeetCode solutions in Python and C/C++.
 
 ### <a href=https://github.com/alex-coch/21-school>21-school</a>
 Born_to_code | School 21 is a new type of coding school that prepares you to launch your developer career through collaborative, project-based learning.
