@@ -2,7 +2,7 @@
 
 I’m a Python backend engineer with 8+ years of experience building APIs and event-driven services. My recent work focuses on search, reading activity, and audiobook processing for a digital reading platform.
 
-[View my portfolio](https://alex-coch.github.io/) · [LinkedIn](https://www.linkedin.com/in/alexcoch/)
+[Portfolio](https://alex-coch.github.io/) · [Resume](https://alex-coch.github.io/resume/) · [Outbox demo](https://github.com/alex-coch/document-events-outbox#quick-start) · [LinkedIn](https://www.linkedin.com/in/alexcoch/)
 
 - Built FastAPI services for catalog and search, implemented Kafka producers and consumers, and used ClickHouse to analyze reading and listening activity.
 - Built a Python pipeline that matches audiobook narration to the written text and deployed the GPU service that runs the model in production.
