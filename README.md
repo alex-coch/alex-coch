@@ -13,4 +13,5 @@ I’m a Python backend engineer with 8+ years of experience building APIs and ev
 
 - [Matching audiobook narration to text](https://alex-coch.github.io/projects/audiobook-alignment/) — How a Python pipeline turns speech model scores into timestamps for ebook passages.
 - [Reliable event delivery for document workflows](https://alex-coch.github.io/projects/transactional-outbox/) — How a transactional outbox and idempotent consumers handle broker outages and duplicate deliveries. · [Run the demo](https://github.com/alex-coch/document-events-outbox#quick-start)
+  [![Docker Compose](https://github.com/alex-coch/document-events-outbox/actions/workflows/compose-ci.yml/badge.svg?branch=main)](https://github.com/alex-coch/document-events-outbox/actions/workflows/compose-ci.yml) [![Kubernetes (kind)](https://github.com/alex-coch/document-events-outbox/actions/workflows/kind-ci.yml/badge.svg?branch=main)](https://github.com/alex-coch/document-events-outbox/actions/workflows/kind-ci.yml)
 - [What’s new in this article?](https://alex-coch.github.io/projects/article-comparison/) — How a Chrome extension retrieves passages from earlier reading to show what a new article adds.
